@@ -1,0 +1,1 @@
+import{j as e,L as t}from"./index-3f155a20.js";function o(){return e.jsxs("div",{className:"not-found-container text-center pt-5",children:[e.jsx("h2",{className:"section-heading",children:"Sorry, the page you were looking for was not found."}),e.jsx(t,{to:"/",className:"theme-btn",children:"Return to Home"})]})}export{o as default};
